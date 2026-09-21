@@ -1,7 +1,7 @@
 numpy
 pandas
 matplotlib
-spicy
+scipy
 psutil
 jupyter lab
 scikit-learn
